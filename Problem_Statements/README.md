@@ -1,3 +1,3 @@
 # Problem Statements
 
-Faculty: upload approved problem statement PDFs here before sharing the repository. Use names such as `Problem_Statement_01.pdf`. Students: record the assigned problem number/title in your group README.
+The statements will be uploaded at 9:00 am on 19/10/2026.
