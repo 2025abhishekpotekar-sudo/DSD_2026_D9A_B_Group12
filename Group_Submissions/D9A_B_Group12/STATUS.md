@@ -15,8 +15,8 @@ Use: `Not Started`, `In Progress`, `Completed` or `Blocked`.
 | 3 | FSM diagram/table completed, if applicable | Not Started | [ ] | [ ] |
 | 4 | Logisim circuit implemented | Completed | [Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Circuit_water_temp.crc.circ ] | [ ] |
 | 5 | Logisim simulation verified | Not Started | [ ] | [ ] |
-| 6 | Verilog RTL completed | Not Started | [Group_Submissions/D9A_B_Group12/03_Verilog_Implementation/project_group12.xpr ] | [ ] |
-| 7 | Testbench and simulation completed | Not Started | [ ] | [ ] |
+| 6 | Verilog RTL completed | In Progress | [Group_Submissions/D9A_B_Group12/03_Verilog_Implementation/project_group12.xpr ] | [ ] |
+| 7 | Testbench and simulation completed | completed| [ Group_Submissions/D9A_B_Group12/05_Results/Simulation wavefrom of testbench.png] | [ ] |
 | 8 | FPGA synthesis and implementation completed | Not Started | [ ] | [ ] |
 | 9 | Hardware demonstration completed | Not Started | [ ] | [ ] |
 | 10 | Results, presentation and report uploaded | Not Started | [ ] | [ ] |
