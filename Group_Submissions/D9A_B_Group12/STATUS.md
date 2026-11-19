@@ -1,8 +1,8 @@
 # Group Progress Status
 
 **Class:** [D9A/D9B]  
-**Group ID:** [D9A_Group01]  
-**Project title:** [Title]  
+**Group ID:** [D9A_Group12]  
+**Project title:** [ ]  
 **Group leader:** [Name]
 
 ## 1. Current milestone status
@@ -13,7 +13,7 @@ Use: `Not Started`, `In Progress`, `Completed` or `Blocked`.
 | 1 | Problem requirements and assumptions documented | Not Started | [ ] | [ ] |
 | 2 | Architecture and block diagram prepared | Not Started | [ ] | [ ] |
 | 3 | FSM diagram/table completed, if applicable | Not Started | [ ] | [ ] |
-| 4 | Logisim circuit implemented | Not Started | [ ] | [ ] |
+| 4 | Logisim circuit implemented | Completed | [Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Circuit_water_temp.crc.circ ] | [ ] |
 | 5 | Logisim simulation verified | Not Started | [ ] | [ ] |
 | 6 | Verilog RTL completed | Not Started | [ ] | [ ] |
 | 7 | Testbench and simulation completed | Not Started | [ ] | [ ] |
@@ -42,7 +42,7 @@ Add rows as needed.
 
 ## 4. End-of-day summary
 ### 19 October 2026
-- Completed:
+- Completed: Logisim, Verilog code, testbench simulation
 - In progress:
 - Pending:
 - Evidence uploaded:
@@ -57,5 +57,5 @@ Add rows as needed.
 ## 5. Group leader confirmation
 I confirm that this status reflects the work completed by the group and that the linked evidence has been uploaded.
 
-**Group leader:** [Name]  
-**Date/time:** [Actual date and time]
+**Group leader:** Abhishek Potekar
+**Date/time:** 
