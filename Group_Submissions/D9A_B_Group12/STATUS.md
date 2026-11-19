@@ -2,8 +2,8 @@
 
 **Class:** [D9A/D9B]  
 **Group ID:** [D9A_Group12]  
-**Project title:** [ ]  
-**Group leader:** [Name]
+**Project title:** [Water Temperature Classifier (H3) ]  
+**Group leader:** [Abhishek Potekar]
 
 ## 1. Current milestone status
 Use: `Not Started`, `In Progress`, `Completed` or `Blocked`.
@@ -44,8 +44,8 @@ Add rows as needed.
 ### 19 October 2026
 - Completed: Logisim, Verilog code, testbench simulation
 - In progress:
-- Pending:
-- Evidence uploaded:
+- Pending: FPGA, Verilog output
+- Evidence uploaded: Logisim, Testbench simulation
 - Plan for 20 October:
 
 ### 20 October 2026
@@ -58,4 +58,4 @@ Add rows as needed.
 I confirm that this status reflects the work completed by the group and that the linked evidence has been uploaded.
 
 **Group leader:** Abhishek Potekar
-**Date/time:** 
+**Date/time:** 19/02/2026 /9:48
