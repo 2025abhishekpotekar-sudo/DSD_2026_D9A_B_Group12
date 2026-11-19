@@ -35,13 +35,13 @@ Insert/link the block diagram and explain modules, data/control flow and design 
 ## 5. FSM Design
 State whether the design uses an FSM. If yes, specify Moore/Mealy, states/encoding, state diagram, state table, transition conditions and reset behaviour. If not, justify the alternative.
 
-**Diagram:** [Path/link]  
+**Diagram:** G  
 **State table:** [Path/link]
 
 ## 6. Logisim Implementation
-- Logisim version: [Version]
-- Circuit file: [Path to `.circ`]
-- Test cases and expected/observed behaviour: [Details]
+- Logisim version: 
+- Circuit file: Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Circuit_water_temp.crc.circ
+- Test cases and expected/observed behaviour: 
 - Issues and corrections: [Details]
 - Screenshot/evidence: [Path/link]
 
