@@ -16,10 +16,10 @@
 **Final Pull Request URL:** [URL]
 
 ## 2. Assigned Problem Statement
-- **Number/title:** [Details]
-- **Problem summary:** [In your own words]
-- **Objective:** [What must the system achieve?]
-- **Inputs and outputs:** [List signals, widths and meaning]
+- **Number/title:** 1/ Water Temperature Classifier
+- **Problem summary:** Initially input temperature ranges from 0-7, which were divided into ranges(cold,neutral,hot) using comparator. The problem statement is to add one more state named invlaid state and when this invalid state occured an led should turn on. Also a reset switch which will take the present state to idle.
+- **Objective:** 
+- **Inputs and outputs:** To add one more state we needed to increase the range of temperature (i.e;8) which required a 4bit input. Therefore one more input pin is added. For invalid state the output should turn on led. Therefore whenever the temperature detected is more than 8 and state is invalid output of led is one. Other outputs than this will be similar to the original given circuit.
 - **Constraints and assumptions:** [List and justify]
 
 ## 3. Problem Analysis and Proposed Solution
