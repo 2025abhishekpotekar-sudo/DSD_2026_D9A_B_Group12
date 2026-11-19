@@ -30,7 +30,7 @@ Explain the requirements, edge cases, proposed solution, distinctive features an
 ## 4. Architecture
 Insert/link the block diagram and explain modules, data/control flow and design trade-offs.
 
-![Block diagram](path/to/block_diagram.png)
+![Block diagram]Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Block diagram.jpeg
 
 ## 5. FSM Design
 State whether the design uses an FSM. If yes, specify Moore/Mealy, states/encoding, state diagram, state table, transition conditions and reset behaviour. If not, justify the alternative.
