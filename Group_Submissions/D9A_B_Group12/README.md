@@ -5,13 +5,13 @@
 ## 1. Team Details
 | Role | Student name | Roll number | GitHub username |
 |---|---|---|---|
-| Group leader | [Name] | [Roll no.] | [Username] |
-| Member 2 | [Name] | [Roll no.] | [Username] |
-| Member 3 | [Name] | [Roll no.] | [Username] |
-| Member 4 | [Name] | [Roll no.] | [Username] |
+| Group leader | [Abhishek Potekar] | [Roll no.53 D9B] | [2025abhishekpotekar-sudo] |
+| Member 2 | [Malishka Naik] | [Roll no.38 D9B] | [2025malishanaik-alt] |
+| Member 3 | [Bhupesh Patil] | [Roll no.54 D9A] | [Bhupesh-tech143] |
+| Member 4 | [Vedant Soni] | [Roll no.40 D9A] | [vedantpsoni-glitch] |
 
 **Class:** [D9A/D9B]  
-**Group ID:** [e.g. D9A_Group01]  
+**Group ID:** Group 12
 **Repository URL:** [Fork URL]  
 **Final Pull Request URL:** [URL]
 
