@@ -10,8 +10,8 @@ Use: `Not Started`, `In Progress`, `Completed` or `Blocked`.
 
 | No. | Milestone | Status | Evidence path/link | Last updated |
 |---:|---|---|---|---|
-| 1 | Problem requirements and assumptions documented | Not Started | [ ] | [ ] |
-| 2 | Architecture and block diagram prepared | Not Started | [ ] | [ ] |
+| 1 | Problem requirements and assumptions documented | Completed | [ ] | [ ] |
+| 2 | Architecture and block diagram prepared | completed| [Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Block diagram.jpeg ] | [ ] |
 | 3 | FSM diagram/table completed, if applicable | Not Started | [ ] | [ ] |
 | 4 | Logisim circuit implemented | Completed | [Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Circuit_water_temp.crc.circ ] | [ ] |
 | 5 | Logisim simulation verified | Not Started | [ ] | [ ] |
