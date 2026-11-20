@@ -28,7 +28,7 @@ Explain the requirements, edge cases, proposed solution, distinctive features an
 [Write here]
 
 ## 4. Architecture
-Insert/link the block diagram and explain modules, data/control flow and design trade-offs.
+The 4-bit water temperature classifier takes a 4-bit temperature input (T3–T0) and checks its value using range comparators. Based on the input, it classifies the water temperature into four categories: Cold (0–2), Neutral (3–5), Hot (6–7), and Invalid (8–15). The control logic and Moore FSM manage the system using START, ACK, RESET, and CLK signals. The state memory stores the current condition and activates the corresponding output valve. Finally, the system displays the status through COLD\_VALVE, NEUTRAL\_VALVE, HOT\_VALVE, or INVALID.
 
 ![Block diagram]Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Block diagram.jpeg
 
@@ -41,13 +41,12 @@ State whether the design uses an FSM. If yes, specify Moore/Mealy, states/encodi
 ## 6. Logisim Implementation
 - Logisim version: 
 - Circuit file: Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Circuit_water_temp.crc.circ
-- Test cases and expected/observed behaviour: 
-- Issues and corrections: [Details]
+- Test cases and expected/observed behaviour: In our Logisim circuit, we first enter a 4-bit temperature input and press RESET to initialize the system. Then, we give a clock pulse so the circuit can process the input and classify the temperature. Based on the input value, the corresponding output (COLD, NEUTRAL, HOT, or INVALID) is activated. We repeat the same process of RESET and CLOCK for every new input to get the correct output.
 - Screenshot/evidence: [Path/link]
 
 ## 7. Verilog HDL Implementation
-- Tool/version: [Details]
-- Top module and submodules: [Names]
+- Tool/version: Xlinx Vivado
+- Top module and submodules: [Water_temp_fsm]
 - Architecture/coding decisions: [Details]
 - Synthesizability considerations: [Details]
 - RTL: `03_Verilog_Implementation/RTL/`
@@ -84,10 +83,10 @@ Future improvements: [Details]
 ## 11. Task Allocation and Individual Contribution
 | Student | Assigned responsibility | Actual contribution/evidence |
 |---|---|---|
-| Group leader | [ ] | [ ] |
-| Member 2 | [ ] | [ ] |
-| Member 3 | [ ] | [ ] |
-| Member 4 | [ ] | [ ] |
+| Group leader | [FSM Design, Github updation , Verilog RTL] | [ ] |
+| Member 2 | [Logisim circuit, PPT, Logisim simulation  ] | [ ] |
+| Member 3 | [Logisim circuit, Block Diagram, ] | [ ] |
+| Member 4 | [FSM Design, Verilog coding, Testbench simulation ] | [ ] |
 
 Every student must be ready to explain the complete design.
 
