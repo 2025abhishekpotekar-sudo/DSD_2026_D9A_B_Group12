@@ -83,7 +83,7 @@ Future improvements: [Details]
 ## 11. Task Allocation and Individual Contribution
 | Student | Assigned responsibility | Actual contribution/evidence |
 |---|---|---|
-| Group leader | [FSM Design, Github updation , Verilog RTL] | [ ] |
+| Group leader | [FSM Design, Github updation , Verilog RTL] | [Group_Submissions/D9A_B_Group12/02_FSM_Logisim/FSM.jpg,  ] |
 | Member 2 | [Logisim circuit, PPT, Logisim simulation  ] | [ ] |
 | Member 3 | [Logisim circuit, Block Diagram, ] | [ ] |
 | Member 4 | [FSM Design, Verilog coding, Testbench simulation ] | [ ] |
