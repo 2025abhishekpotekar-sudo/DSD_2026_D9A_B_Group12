@@ -86,7 +86,7 @@ Future improvements: [Details]
 | Group leader | [FSM Design, Github updation , Verilog RTL] | [Group_Submissions/D9A_B_Group12/02_FSM_Logisim/FSM.jpg,  ] |
 | Member 2 | [Logisim circuit, PPT, Logisim simulation  ] |[ Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Circuit_water_temp.crc.circ] |
 | Member 3 | [Logisim circuit, Block Diagram, ] | [Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Block diagram.jpeg ] |
-| Member 4 | [FSM Design, Verilog coding, Testbench simulation ] | [ ] |
+| Member 4 | [FSM Design, Verilog coding, Testbench simulation ] | [Group_Submissions/D9A_B_Group12/05_Results/Simulation wavefrom of testbench.png ] |
 
 Every student must be ready to explain the complete design.
 
