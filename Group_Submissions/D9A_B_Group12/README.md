@@ -33,10 +33,10 @@ The 4-bit water temperature classifier takes a 4-bit temperature input (T3–T0)
 ![Block diagram]Group_Submissions/D9A_B_Group12/02_FSM_Logisim/Block diagram.jpeg
 
 ## 5. FSM Design
-State whether the design uses an FSM. If yes, specify Moore/Mealy, states/encoding, state diagram, state table, transition conditions and reset behaviour. If not, justify the alternative.
+The FSM first stays in the IDLE state and waits for the START signal. When we give a 4-bit input, it checks the value: 0–2 means COLD, 3–5 means NEUTRAL, 6–7 means HOT, and 8–15 means INVALID. Based on the value, it moves to the respective state and activates the corresponding output. After giving ACK or RESET, it returns to IDLE, ready for the next input..
 
 **Diagram:** G  
-**State table:** [Path/link]
+**State table:** Group_Submissions/D9A_B_Group12/02_FSM_Logisim/FSM.jpg
 
 ## 6. Logisim Implementation
 - Logisim version: 
